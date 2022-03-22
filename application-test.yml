@@ -1,2 +1,2 @@
 config:
-  info: test.yml
+  info: "application-test.yml"
